@@ -1,4 +1,4 @@
-# Interview Slot APIs
+# SubTrack
 
 This project is a backend system for a multi-tenant SaaS subscription and billing engine. It allows SaaS providers (vendors) to define products and subscription plans, manage customer subscriptions, track usage for usage-based billing, and generate invoices automatically. The system is designed to simulate the core business logic required for running a subscription-based SaaS platform Built using Django and Django REST Framework
 
